@@ -1,0 +1,5 @@
+1) Készítsd el az óra for ciklusos egyszerű feladatokat, while és do-while segítségével is!
+2) Próbáld meg optimalizálni az LNKO, Relatív prím, illetve a prímszám meghatározó feladatokat, írd le azt is a kódba, hogyan és mivel optimalizáltad
+
+EXTRA (Kreatív feladat)
+Próbálj meg kitalálni saját magad, elágazásos(szelekciós) vagy szekvenciális feladatokat... (ciklusos még nem kell, és órán a legjobbakból megnézünk párat.
