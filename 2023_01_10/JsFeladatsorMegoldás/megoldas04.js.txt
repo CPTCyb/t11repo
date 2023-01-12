@@ -1,0 +1,33 @@
+let kor=Number(prompt("Add meg az életkorod:"));
+if(kor>=0 && kor<6)
+{
+ 	document.write(`${kor} évesen kisgyermek korban vagy.`);
+}
+else if(kor>=6 && kor<12)
+{
+ 	document.write(`${kor} évesen gyermekkorban vagy.`);
+}
+else if(kor>=12 && kor<16)
+{
+ 	document.write(`${kor} évesen serdülő korban vagy.`);
+}
+else if(kor>=16 && kor<20)
+{
+ 	document.write(`${kor} évesen ifjúkorban vagy.`);
+}
+else if(kor>=20 && kor<30)
+{
+ 	document.write(`${kor} évesen fiatal felnőttkorban vagy.`);
+}
+else if(kor>=30 && kor<60)
+{
+ 	document.write(`${kor} évesen felnőtt korban vagy.`);
+}
+else if(kor>=60 && kor<=120)
+{
+ 	document.write(`${kor} évesen aggkorban vagy.`);
+}
+else
+{
+ 	document.write(`${kor} érték hibás adat!`);
+}
